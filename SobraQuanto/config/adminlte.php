@@ -239,53 +239,53 @@ return [
         ],
         [
             'text'        => 'Usuários',
-            'url'         => '',
+            'url'         => 'usuarios',
             'icon'        => 'fas fa-user',
         ],
         [
             'text'        => 'Painel de Venda',
-            'url'         => 'admin/pages',
+            'url'         => 'pdv',
             'icon'        => 'fas fa-dollar-sign',
         ],
         [
             'text'        => 'Ordens de Serviços',
-            'url'         => 'admin/pages',
+            'url'         => 'ordens/servicos',
             'icon'        => 'fas fa-clipboard-list',
         ],
         [
             'text'        => 'Produtos',
-            'url'         => 'admin/pages',
+            'url'         => 'produtos',
             'icon'        => 'fas fa-box-open',
         ],
         [
-            'text'        => 'Financeiros',
-            'url'         => 'admin/pages',
+            'text'        => 'Financeiro',
+            'url'         => 'financeiro',
             'icon'        => 'fas fa-chart-line',
         ],
         [
             'text'        => 'Clientes',
-            'url'         => 'admin/pages',
+            'url'         => 'clientes',
             'icon'        => 'fas fa-user-plus',
         ],
         [
             'text'        => 'Categoria de serviço',
-            'url'         => 'admin/pages',
+            'url'         => 'categorias/servicos',
             'icon'        => 'fas fa-border-all',
         ],
         [
             'text'        => 'Categoria de produto',
-            'url'         => 'admin/pages',
+            'url'         => 'categorias/produtos',
             'icon'        => 'fas fa-border-all',
         ],
         [
             'text'        => 'Cargos',
             'url'         => 'cargos',
-            'icon'        => 'fas fa-border-all',
+            'icon'        => 'fas fa-address-card',
         ],
         [
             'text'        => 'Permissões',
             'url'         => 'permissoes',
-            'icon'        => 'fas fa-border-all',
+            'icon'        => 'fas fa-address-card',
         ]
     ],
     

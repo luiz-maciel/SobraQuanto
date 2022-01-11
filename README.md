@@ -20,7 +20,7 @@ Abra o terminal do VsCode e acesse a pasta do SobraQuanto (xampp/htdocs/SobraQua
 
 Digite
 
-**composer install**
+**composer install**<br>
 **composer update**
 **npm install** 
 **npm run dev**

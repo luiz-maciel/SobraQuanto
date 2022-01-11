@@ -3,11 +3,11 @@
 @section('title', 'Sobra Quanto')
 
 @section('content_header')
-    <h1>Dashboard</h1>
+    <h1>Clientes</h1>
 @stop
 
 @section('content')
-    <p>Welcome to this beautiful admin panel.</p>
+    <p>Tela onde será apresentado as informações dos clientes. Tela 36/43</p>
 @stop
 
 @section('css')

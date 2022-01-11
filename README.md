@@ -7,10 +7,10 @@ Instalação Projeto Sobra Quanto
 
 -----------Programas----------
 
-Composer
-NodeJS
-xampp
-GitKraken
+Composer<br>
+NodeJS<br>
+xampp<br>
+GitKraken<br>
 -----------------------------------
 (Abra o xampp, inicie apacha e mysql)
 
@@ -21,23 +21,23 @@ Abra o terminal do VsCode e acesse a pasta do SobraQuanto (xampp/htdocs/SobraQua
 Digite
 
 **composer install**<br>
-**composer update**
-**npm install** 
-**npm run dev**
+**composer update**<br>
+**npm install** <br>
+**npm run dev**<br>
 
-**cp .env.example .env**
+**cp .env.example .env**<br>
 
-**php artisan key:generate** 
+**php artisan key:generate**<br> 
 
-**config .env** 
-(Criar banco de dados)
-(alterar, app name, DB_DATABASE)
-
-
+**config .env** <br>
+(Criar banco de dados)<br>
+(alterar, app name, DB_DATABASE)<br>
 
 
-**php artisan migrate:fresh** 
 
-Para iniciar o sistema:
 
-**php artisan serve**
+**php artisan migrate:fresh** <br>
+
+Para iniciar o sistema:<br>
+
+**php artisan serve**<br>

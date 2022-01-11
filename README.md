@@ -11,8 +11,8 @@ Composer<br>
 NodeJS<br>
 xampp<br>
 GitKraken<br>
------------------------------------
-(Abra o xampp, inicie apacha e mysql)
+----------------------------q-------
+(Abra o xampp, inicie apache e mysql)
 
 No GitKraken, faça o clone do repositorio, e abra o VScode
 

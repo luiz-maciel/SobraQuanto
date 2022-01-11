@@ -20,10 +20,10 @@ Abra o terminal do VsCode e acesse a pasta do SobraQuanto (xampp/htdocs/SobraQua
 
 Digite
 
-**composer install
-composer update
-npm install 
-npm run dev
+**composer install**
+**composer update**
+**npm install** 
+**npm run dev**
 
 **cp .env.example .env**
 
@@ -36,7 +36,7 @@ npm run dev
 
 
 
-*php artisan migrate:fresh* 
+**php artisan migrate:fresh** 
 
 Para iniciar o sistema:
 

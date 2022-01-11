@@ -54,3 +54,4 @@ Route::get('ordens/servicos', [OrdensServicosController::class, 'index'])->name(
 Route::get('pdv', [PdvController::class, 'index'])->name('pdv');
 
 Route::get('usuarios', [UsuariosController::class, 'index'])->name('usuarios');
+

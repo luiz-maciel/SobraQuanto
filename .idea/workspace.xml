@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e3bd243-3a48-4626-96f2-a2f1c77d578e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/SobraQuanto/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/composer" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/jeroennoten/laravel-adminlte" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/SobraQuanto/vendor/sebastian/cli-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="23VpfhplL02FvUPPfDwyBQ002oC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/SobraQuanto/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e3bd243-3a48-4626-96f2-a2f1c77d578e" name="Changes" comment="" />
+      <created>1641829217276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641829217276</updated>
+      <workItem from="1641829220136" duration="41000" />
+      <workItem from="1641829284792" duration="1376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
